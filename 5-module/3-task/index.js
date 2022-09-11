@@ -1,3 +1,3 @@
 function initCarousel() {
-  // ваш код...
+  
 }
